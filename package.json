@@ -1,5 +1,8 @@
 {
   "scripts": {
     "dev": "npx servor --reload --static"
+  },
+  "devDependencies": {
+    "tailwindcss": "^2.2.16"
   }
 }
