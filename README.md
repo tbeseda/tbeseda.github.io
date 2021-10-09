@@ -3,12 +3,11 @@
 add Tailwind
 
 ```sh
-npx tailwindcss init
-npx tailwindcss -o ./assets/tailwind.css
+npx tailwindcss -o .docs/assets/tailwind.css
 ```
 
 live reload server
 
 ```sh
-npm run dev
+npm start
 ```
